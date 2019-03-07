@@ -6,6 +6,7 @@ public class Test {
          System.out.println("Hi it's me");
 		System.out.println("Hi from Git");
 		System.out.println("Hi it's me from local");
+		System.out.println("Hi from Git");
 	}
 
 }
